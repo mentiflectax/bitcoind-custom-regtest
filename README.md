@@ -14,7 +14,7 @@ Patched version of Bitcoin regtest with halving interval increased to mainnet an
 ## Building
 
 ```
-docker build -t ulamlabs/bitcoind-custom-regtest:latest .
+docker build -t mentiflectax/bitcoind-custom-regtest:latest .
 ```
 
 ## Usage
